@@ -22,9 +22,3 @@ Based on the current public COMPASS repository:
 - DIS is currently implemented in `init_database.sql`
 - CDM / semantic mapping is currently implemented in `mapping-dataset01.ttl`
 - ETL execution logic is currently implemented in `final_ontop.py`
-
-## Suggested use
-
-1. Upload these files into your fork or your own GitHub repository.
-2. Keep them inside the `docs/` folder.
-3. Share the repository link as your assignment submission.
